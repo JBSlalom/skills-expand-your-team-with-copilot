@@ -738,7 +738,7 @@ footer {
   transform: scale(0.95);
 }
 
-/* Adjust user-controls position when dark mode toggle is present */
+/* Adjust user-controls position to make room for dark mode toggle button (36px width + 10px margin + 9px spacing = 55px) */
 #user-controls {
   right: 55px;
 }
